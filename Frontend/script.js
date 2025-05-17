@@ -1,5 +1,5 @@
 // API URL from environment
-const API_URL = "http://localhost:3000/api";
+const API_URL = "https://simplelogin-registartion-frontend.onrender.com";
 
 // Show/hide forms
 window.showForm = function (formType) {
