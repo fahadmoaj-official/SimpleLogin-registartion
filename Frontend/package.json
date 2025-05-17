@@ -1,0 +1,14 @@
+{
+    "name": "simple-luck-website-frontend",
+    "version": "1.0.0",
+    "description": "Frontend for Simple Login & Registration System",
+    "type": "module",
+    "scripts": {
+        "start": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "vite": "^4.4.9"
+    }
+}
